@@ -1,0 +1,7 @@
+.env
+.env.generated
+*.snapshot
+*secret.*
+.idea
+.DS_Store
+*secret*
